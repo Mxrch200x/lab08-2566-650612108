@@ -56,7 +56,7 @@ export default function Home() {
            copyright © 2023 Chayanin Suatap 12345678
         </p>
       </div>
-      <Footer year="2023" fullname="Autsada Wiriya" studentId="650612107"/>
+      <Footer year="2023" fullname="Artittaya Tieng-arom" studentId="650612108"/>
     </div>
   );
 }
